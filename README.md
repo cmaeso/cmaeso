@@ -2,7 +2,7 @@
 
 🎓 Estudiante del Grado en Inteligencia Artificial  
 💡 Apasionada por la visión artificial, el aprendizaje automático y los algoritmos de optimización.  
-🔬 En constante aprendizaje, con muchas ganas de colaborar en proyectos reales con machine learning.  
+🔬 En constante aprendizaje, con muchas ganas de colaborar en proyectos reales con machine learning y colaborar otros expertos del campo.  
 📍 España 
 
 ---
