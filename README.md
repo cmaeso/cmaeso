@@ -3,7 +3,7 @@
 🎓 Estudiante del Grado en Inteligencia Artificial  
 💡 Apasionada por la visión por computador, el aprendizaje automático y los algoritmos de optimización.  
 🔬 En constante aprendizaje, con muchas ganas de colaborar en proyectos reales con machine learning.  
-📍 España |
+📍 España 
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## 📌 Repositorios destacados
 
-- 🔍 [grado-ia](https://github.com/cmaeso/grado-ia): Material académico del grado en IA
+- 🔍 [grado-ia](https://github.com/cmaeso/grado-ia): Material académico destacado del grado en IA
 
 ---
 
