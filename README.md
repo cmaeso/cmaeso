@@ -9,7 +9,7 @@
 
 ## 🧠 Tecnologías y áreas de interés
 
-- 🧑‍💻 Python, Jupyter, Scikit-learn, TensorFlow, PyTorch, Numpy, OpenCV
+- 🧑‍💻 Python, C, Pandas, Scikit-learn, TensorFlow, PyTorch, Numpy, OpenCV, Pytorch
 - 🤖 Machine Learning · Deep Learning · Optimización
 - 👁️ Visión Artificial · PLN (Procesamiento de Lenguaje Natural)
 - 🛠️ Git, GitHub, Linux, VS Code
