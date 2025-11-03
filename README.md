@@ -11,7 +11,7 @@
 
 - 🧑‍💻 Python, C, Pandas, Scikit-learn, TensorFlow, PyTorch, Numpy, OpenCV, Pytorch
 - 🤖 Machine Learning · Deep Learning · Optimización
-- 👁️ Visión Artificial · PLN (Procesamiento de Lenguaje Natural)
+- 👁️ Visión Artificial
 - 🛠️ Git, GitHub, Linux, VS Code
 
 ---
